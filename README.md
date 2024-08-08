@@ -2,7 +2,9 @@
 
 <h2> My Personal Portfolio[Task 1] </h2>
 
-Welcome to my personal portfolio website, where I showcase my skills, projects, and professional journey. This portfolio includes:
+Welcome to my personal portfolio website, where I showcase my skills, projects, and professional journey.
+
+This portfolio includes:
 
 -  About Me: A section dedicated to my background, professional experience, and personal interests.
 -  Projects: A detailed presentation of my projects, highlighting my technical abilities and the tools I used.
@@ -12,6 +14,7 @@ Welcome to my personal portfolio website, where I showcase my skills, projects, 
 
 <h2> Landing Page [Task 2] </h2>
 This project is a simple landing page built using only HTML and CSS. 
+
 
 The landing page features:
 
